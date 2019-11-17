@@ -1,5 +1,6 @@
 {
   "name": "RTL Switcher",
+  "short_name": "RTL Switcher",
   "version": "1.0",
   "description": "Switches between LTR to RTL of the current webpage",
   "background": {

@@ -1,3 +1,3 @@
 chrome.browserAction.onClicked.addListener(function(tab) {
-    chrome.tabs.sendMessage(tab.id, {extensionId: 'rtl-switcher'});
+    chrome.tabs.sendMessage(tab.id, {rtlSwitcherMsg: 'switch'});
 });

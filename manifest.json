@@ -2,7 +2,7 @@
   "name": "RTL Switcher",
   "short_name": "RTL Switcher",
   "version": "1.0",
-  "description": "Switches between LTR to RTL of the current webpage",
+  "description": "Switches between LTR to RTL on the current webpage",
   "background": {
     "scripts": [
       "background.js"
@@ -13,6 +13,7 @@
     "matches": ["<all_urls>"],
     "js": ["content.js"]
   }],
+  "permissions": ["activeTab"],
   "browser_action": {
     "default_icon": {
       "16": "images/rtl-logo-16.png",

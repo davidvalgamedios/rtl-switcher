@@ -14,17 +14,17 @@
   }],
   "browser_action": {
     "default_icon": {
-      "16": "rtl-logo.png",
-      "32": "rtl-logo.png",
-      "48": "rtl-logo.png",
-      "128": "rtl-logo.png"
+      "16": "images/rtl-logo-16.png",
+      "32": "images/rtl-logo-32.png",
+      "48": "images/rtl-logo-48.png",
+      "128": "images/rtl-logo-128.png"
     }
   },
   "icons": {
-    "16": "rtl-logo.png",
-    "32": "rtl-logo.png",
-    "48": "rtl-logo.png",
-    "128": "rtl-logo.png"
+    "16": "images/rtl-logo-16.png",
+    "32": "images/rtl-logo-32.png",
+    "48": "images/rtl-logo-48.png",
+    "128": "images/rtl-logo-128.png"
   },
   "manifest_version": 2
 }
